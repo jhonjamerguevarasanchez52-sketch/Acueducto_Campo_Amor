@@ -57,4 +57,4 @@ acueducto_app/
 ```
  
 ## Autores
-- *(agrega aquí tu nombre y el de tus compañeros)*
+- *Echo por los aprendices: Deimer leon, Carlos chavarro, Jhon Guevara *
